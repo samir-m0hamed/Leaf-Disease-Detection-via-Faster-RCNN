@@ -2,7 +2,7 @@
 
 <div dir="rtl">
 
-**كشف أمراض الأوراق باستخدام Faster R-CNN - نموذج متقدم لكشف الأجسام من عائلة R-CNN**
+**Detecting leaf diseases using Faster R-CNN - An advanced object detection model from the R-CNN family**
 
 </div>
 
@@ -197,26 +197,10 @@ For dataset details, see:
 
 ## 👤 Author
 
-AI Computer Vision Projects - Object Detection Series
+**Samir Mohamed - AI & Computer Vision Engineer**
 
 ## 📝 License
 
 This project is open source and available for educational purposes.
 
 ---
-
-<div dir="rtl">
-
-### ملاحظات بالعربية 🇪🇬
-
-هذا المشروع يغطي **pipeline كامل** لكشف الأمراض في الأوراق:
-- تحضير البيانات بصيغة COCO
-- تصميم custom dataset class
-- بناء نموذج Faster R-CNN
-- تدريب وتقييم النموذج
-- الاستدلال على صور جديدة
-
-المشروع مناسب للتعلم العملي وفهم كيفية تطبيق object detection في الزراعة الذكية.
-
-</div>
-
